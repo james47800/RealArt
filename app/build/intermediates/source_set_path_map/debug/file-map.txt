@@ -1,0 +1,59 @@
+com.mwangi.real.app-lifecycle-viewmodel-savedstate-2.6.1-0 C:\Users\James\.gradle\caches\transforms-3\0160c0847c81cc3c92cec5c66c31b020\transformed\lifecycle-viewmodel-savedstate-2.6.1\res
+com.mwangi.real.app-circleimageview-3.1.0-1 C:\Users\James\.gradle\caches\transforms-3\04a1c56e3c99135a9d7b6ddc01003b24\transformed\circleimageview-3.1.0\res
+com.mwangi.real.app-browser-1.4.0-2 C:\Users\James\.gradle\caches\transforms-3\0512bc401e954585d97ec8483d21717a\transformed\browser-1.4.0\res
+com.mwangi.real.app-emoji2-1.2.0-3 C:\Users\James\.gradle\caches\transforms-3\079defd939b126218c559e525c76c2cf\transformed\emoji2-1.2.0\res
+com.mwangi.real.app-glide-4.12.0-4 C:\Users\James\.gradle\caches\transforms-3\08e6abb7634afc94f38a6f8889f8aaff\transformed\glide-4.12.0\res
+com.mwangi.real.app-navigation-runtime-ktx-2.4.1-5 C:\Users\James\.gradle\caches\transforms-3\0b6c492cb769530eae966d433490b6f2\transformed\navigation-runtime-ktx-2.4.1\res
+com.mwangi.real.app-lifecycle-runtime-2.6.1-6 C:\Users\James\.gradle\caches\transforms-3\14bcda5b65b9d564c3287cc9ff6093f8\transformed\lifecycle-runtime-2.6.1\res
+com.mwangi.real.app-navigation-runtime-2.4.1-7 C:\Users\James\.gradle\caches\transforms-3\1e374d1de003c237a05cdc23e67cefa4\transformed\navigation-runtime-2.4.1\res
+com.mwangi.real.app-fragment-ktx-1.4.1-8 C:\Users\James\.gradle\caches\transforms-3\256a78c51dcf11529d0f75e6597cee0e\transformed\fragment-ktx-1.4.1\res
+com.mwangi.real.app-lifecycle-livedata-2.6.1-9 C:\Users\James\.gradle\caches\transforms-3\26d5a8f5e3ea448fde4744e1dd876c65\transformed\lifecycle-livedata-2.6.1\res
+com.mwangi.real.app-coordinatorlayout-1.1.0-10 C:\Users\James\.gradle\caches\transforms-3\2844fd6d4ed497a3c34abf9f53fb6222\transformed\coordinatorlayout-1.1.0\res
+com.mwangi.real.app-emoji2-views-helper-1.2.0-11 C:\Users\James\.gradle\caches\transforms-3\2afca03f91064229ce4ebfba691804ef\transformed\emoji2-views-helper-1.2.0\res
+com.mwangi.real.app-navigation-ui-ktx-2.4.1-12 C:\Users\James\.gradle\caches\transforms-3\2cce38dcc686e8caac656b6232df285a\transformed\navigation-ui-ktx-2.4.1\res
+com.mwangi.real.app-recyclerview-1.2.1-13 C:\Users\James\.gradle\caches\transforms-3\303831e52b3d6096592664962b254668\transformed\recyclerview-1.2.1\res
+com.mwangi.real.app-transition-1.4.1-14 C:\Users\James\.gradle\caches\transforms-3\344fda933e5f36e4aa2d174140902ccb\transformed\transition-1.4.1\res
+com.mwangi.real.app-startup-runtime-1.1.1-15 C:\Users\James\.gradle\caches\transforms-3\3b159ffe7b7b52a1abc0967253810c56\transformed\startup-runtime-1.1.1\res
+com.mwangi.real.app-lifecycle-livedata-ktx-2.6.1-16 C:\Users\James\.gradle\caches\transforms-3\3e88b1cebe996cfa694a41e9a0d8c097\transformed\lifecycle-livedata-ktx-2.6.1\res
+com.mwangi.real.app-appcompat-resources-1.6.1-17 C:\Users\James\.gradle\caches\transforms-3\3ee7fd029f10b1d905e432c92a83682c\transformed\appcompat-resources-1.6.1\res
+com.mwangi.real.app-core-1.9.0-18 C:\Users\James\.gradle\caches\transforms-3\409c06ac2c56a258001c3591973cf142\transformed\core-1.9.0\res
+com.mwangi.real.app-navigation-fragment-2.4.1-19 C:\Users\James\.gradle\caches\transforms-3\5f8b2c27aee76edb02efb60b72912e5d\transformed\navigation-fragment-2.4.1\res
+com.mwangi.real.app-viewpager2-1.0.0-20 C:\Users\James\.gradle\caches\transforms-3\6a91b9a0f6e238f89efe2d836e0a4023\transformed\viewpager2-1.0.0\res
+com.mwangi.real.app-lifecycle-runtime-ktx-2.6.1-21 C:\Users\James\.gradle\caches\transforms-3\7708efbf6a5a785c1c1c3e4b31944c43\transformed\lifecycle-runtime-ktx-2.6.1\res
+com.mwangi.real.app-slidingpanelayout-1.2.0-22 C:\Users\James\.gradle\caches\transforms-3\78814b450f8898765588b0bb85d6ae42\transformed\slidingpanelayout-1.2.0\res
+com.mwangi.real.app-fragment-1.4.1-23 C:\Users\James\.gradle\caches\transforms-3\78b46b85dc87a40ebc364e90f1a41473\transformed\fragment-1.4.1\res
+com.mwangi.real.app-lifecycle-livedata-core-ktx-2.6.1-24 C:\Users\James\.gradle\caches\transforms-3\7b1b7204267f3d5f88d8b37fa90f88dd\transformed\lifecycle-livedata-core-ktx-2.6.1\res
+com.mwangi.real.app-savedstate-1.2.1-25 C:\Users\James\.gradle\caches\transforms-3\819700a07b1b7b67430b070a90a4150e\transformed\savedstate-1.2.1\res
+com.mwangi.real.app-lifecycle-process-2.6.1-26 C:\Users\James\.gradle\caches\transforms-3\8958638f3d0b26bd0881fc76ff1d70c1\transformed\lifecycle-process-2.6.1\res
+com.mwangi.real.app-lifecycle-livedata-core-2.6.1-27 C:\Users\James\.gradle\caches\transforms-3\92d6a734fdba53785755c812024efe5f\transformed\lifecycle-livedata-core-2.6.1\res
+com.mwangi.real.app-core-ktx-1.9.0-28 C:\Users\James\.gradle\caches\transforms-3\9b1479f262a64fc6b132296b030213f4\transformed\core-ktx-1.9.0\res
+com.mwangi.real.app-cardview-1.0.0-29 C:\Users\James\.gradle\caches\transforms-3\9c945454013d3c81bc36445a64710e0b\transformed\cardview-1.0.0\res
+com.mwangi.real.app-core-runtime-2.2.0-30 C:\Users\James\.gradle\caches\transforms-3\9fadce3b014a66a27420e3726e2c96f2\transformed\core-runtime-2.2.0\res
+com.mwangi.real.app-drawerlayout-1.1.1-31 C:\Users\James\.gradle\caches\transforms-3\a151514ee601bf8e0ed45ac018e420f2\transformed\drawerlayout-1.1.1\res
+com.mwangi.real.app-material-1.8.0-32 C:\Users\James\.gradle\caches\transforms-3\aa2724e4083b8ddd522296013e4e7620\transformed\material-1.8.0\res
+com.mwangi.real.app-savedstate-ktx-1.2.1-33 C:\Users\James\.gradle\caches\transforms-3\aa50b6ff7263267167bc56719a742d84\transformed\savedstate-ktx-1.2.1\res
+com.mwangi.real.app-window-1.0.0-34 C:\Users\James\.gradle\caches\transforms-3\af5cca21a406468ff907591198362b0e\transformed\window-1.0.0\res
+com.mwangi.real.app-navigation-common-2.4.1-35 C:\Users\James\.gradle\caches\transforms-3\b00498d38a84731ed8eca3c0b129cc9e\transformed\navigation-common-2.4.1\res
+com.mwangi.real.app-lifecycle-viewmodel-2.6.1-36 C:\Users\James\.gradle\caches\transforms-3\b8be8a14534ef97d83e34ac261cd63e0\transformed\lifecycle-viewmodel-2.6.1\res
+com.mwangi.real.app-play-services-basement-18.1.0-37 C:\Users\James\.gradle\caches\transforms-3\bcd6e3128d0937bd5ceee27ccd61b98b\transformed\play-services-basement-18.1.0\res
+com.mwangi.real.app-constraintlayout-2.1.4-38 C:\Users\James\.gradle\caches\transforms-3\bfcc302b16a74981c37b53f17bd6fe91\transformed\constraintlayout-2.1.4\res
+com.mwangi.real.app-activity-1.6.0-39 C:\Users\James\.gradle\caches\transforms-3\c6bbb1ea36195b2d6dec7ad194624b0c\transformed\activity-1.6.0\res
+com.mwangi.real.app-lifecycle-viewmodel-ktx-2.6.1-40 C:\Users\James\.gradle\caches\transforms-3\c8535c128417b7390c4a2894b4e21cf3\transformed\lifecycle-viewmodel-ktx-2.6.1\res
+com.mwangi.real.app-activity-ktx-1.6.0-41 C:\Users\James\.gradle\caches\transforms-3\c86ccf1db406fc56cd7c6ecfcf190be1\transformed\activity-ktx-1.6.0\res
+com.mwangi.real.app-navigation-common-ktx-2.4.1-42 C:\Users\James\.gradle\caches\transforms-3\dd9b9bfcc7c95855cc78b98bb769d4e2\transformed\navigation-common-ktx-2.4.1\res
+com.mwangi.real.app-profileinstaller-1.3.0-43 C:\Users\James\.gradle\caches\transforms-3\e4a25525a63d1e94936be693cf2f0c40\transformed\profileinstaller-1.3.0\res
+com.mwangi.real.app-navigation-ui-2.4.1-44 C:\Users\James\.gradle\caches\transforms-3\eb3e62e621998d3b6df57befebd9d4e6\transformed\navigation-ui-2.4.1\res
+com.mwangi.real.app-play-services-base-18.1.0-45 C:\Users\James\.gradle\caches\transforms-3\ec4d49e14e65c716f6a924b53a50356d\transformed\play-services-base-18.1.0\res
+com.mwangi.real.app-appcompat-1.6.1-46 C:\Users\James\.gradle\caches\transforms-3\ed3819af41362406a8a7ff1e1744c148\transformed\appcompat-1.6.1\res
+com.mwangi.real.app-annotation-experimental-1.3.0-47 C:\Users\James\.gradle\caches\transforms-3\f23a182e820e12e9da3a8f2374c27a99\transformed\annotation-experimental-1.3.0\res
+com.mwangi.real.app-firebase-common-20.3.2-48 C:\Users\James\.gradle\caches\transforms-3\f72a58fdf4aa0796282fcaf56dbefafc\transformed\firebase-common-20.3.2\res
+com.mwangi.real.app-navigation-fragment-ktx-2.4.1-49 C:\Users\James\.gradle\caches\transforms-3\fb27f4d057349bc36ad20bd1acab90f3\transformed\navigation-fragment-ktx-2.4.1\res
+com.mwangi.real.app-google-services-50 C:\Users\James\AndroidStudioProjects\Real 9\app\build\generated\res\google-services\debug
+com.mwangi.real.app-pngs-51 C:\Users\James\AndroidStudioProjects\Real 9\app\build\generated\res\pngs\debug
+com.mwangi.real.app-resValues-52 C:\Users\James\AndroidStudioProjects\Real 9\app\build\generated\res\resValues\debug
+com.mwangi.real.app-rs-53 C:\Users\James\AndroidStudioProjects\Real 9\app\build\generated\res\rs\debug
+com.mwangi.real.app-packageDebugResources-54 C:\Users\James\AndroidStudioProjects\Real 9\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.mwangi.real.app-packageDebugResources-55 C:\Users\James\AndroidStudioProjects\Real 9\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.mwangi.real.app-merged_res-56 C:\Users\James\AndroidStudioProjects\Real 9\app\build\intermediates\merged_res\debug
+com.mwangi.real.app-debug-57 C:\Users\James\AndroidStudioProjects\Real 9\app\src\debug\res
+com.mwangi.real.app-main-58 C:\Users\James\AndroidStudioProjects\Real 9\app\src\main\res

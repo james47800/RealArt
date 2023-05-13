@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "180526626947",
+    "project_id": "real-art-36902",
+    "storage_bucket": "real-art-36902.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180526626947:android:0647da768219ca7c2b43b6",
+        "android_client_info": {
+          "package_name": "com.mwangi.real"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180526626947-u39qh3hlijgfftghv16vefohn6a0tuop.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM2aTGXHQYSiqwbZKzrXXQKpzwnoZ51Nc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180526626947-u39qh3hlijgfftghv16vefohn6a0tuop.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

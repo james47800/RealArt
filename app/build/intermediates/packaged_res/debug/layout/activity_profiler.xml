@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@color/whitebg"
+    android:layout_height="match_parent"
+    tools:context=".ProfilerActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <ImageView
+                android:layout_marginRight="9dp"
+                android:layout_gravity="left"
+                android:src="@drawable/icon"
+                android:layout_width="50dp"
+                android:layout_height="50dp"/>
+            <TextView
+                android:textColor="@color/purple_500"
+                android:textStyle="bold|normal"
+                android:gravity="center"
+                android:layout_gravity="center"
+                android:text="Real Art"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"/>
+            <Button
+                android:id="@+id/updateProfileBtn"
+                android:textColor="@color/purple_500"
+                android:textStyle="bold"
+                android:textAllCaps="false"
+                android:text="Update"
+                android:backgroundTint="#D5D0D0"
+                android:layout_marginLeft="190dp"
+                android:layout_gravity="right"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+                <de.hdodenhof.circleimageview.CircleImageView
+                    android:id="@+id/imageViewProfile"
+                    android:layout_marginLeft="9dp"
+                    android:layout_width="150dp"
+                    app:civ_border_width="2dp"
+                    android:layout_gravity="center"
+                    app:civ_border_color="@color/purple_500"
+                    android:layout_height="150dp"
+                    android:src="@drawable/baseline_account" />
+                <Button
+                    android:id="@+id/selectImageProfile"
+                    android:textStyle="bold|normal"
+                    android:textSize="10dp"
+                    android:layout_marginRight="5dp"
+                    android:textAllCaps="false"
+                    android:layout_marginTop="30dp"
+                    android:text="gallery"
+                    android:background="@drawable/profilebutton"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+                <com.google.android.material.textfield.TextInputLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="190dp"
+                    android:layout_marginLeft="25dp"
+                    android:layout_marginTop="15dp"
+                    android:layout_marginRight="25dp"
+                    android:layout_marginBottom="20dp"
+                    app:boxBackgroundColor="@color/white"
+                    app:boxStrokeColor="@color/whitebg"
+                    app:helperText="About yourself"
+                    app:helperTextTextColor="@color/black"
+                    app:shapeAppearanceOverlay="@style/ButtonUpload"
+                    app:suffixTextColor="@color/Blue">
+
+                    <com.google.android.material.textfield.TextInputEditText
+                        android:id="@+id/profileBio"
+                        android:layout_width="match_parent"
+                        android:layout_height="100dp"
+                        android:inputType="textPersonName"
+                        android:textColor="@color/black" />
+                </com.google.android.material.textfield.TextInputLayout>
+                <TextView
+                    android:text=""
+                    android:textColor="#5A5757"
+                    android:textStyle="bold|normal"
+                    android:layout_marginTop="15dp"
+                    android:layout_gravity="center|bottom"
+                    android:gravity="center"
+                    android:id="@+id/ProfileemailDisplay"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

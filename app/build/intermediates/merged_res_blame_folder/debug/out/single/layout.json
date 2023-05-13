@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-mergeDebugResources-55:\\layout\\activity_account_settings.xml",
+        "source": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-main-58:\\layout\\activity_account_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-mergeDebugResources-55:\\layout\\fragment_upload_display.xml",
+        "source": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-main-58:\\layout\\fragment_upload_display.xml"
+    },
+    {
+        "merged": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-mergeDebugResources-55:\\layout\\activity_register.xml",
+        "source": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-main-58:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-mergeDebugResources-55:\\layout\\fragment_account_display.xml",
+        "source": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-main-58:\\layout\\fragment_account_display.xml"
+    },
+    {
+        "merged": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-mergeDebugResources-55:\\layout\\art_layout.xml",
+        "source": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-main-58:\\layout\\art_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-mergeDebugResources-55:\\layout\\activity_get_started.xml",
+        "source": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-main-58:\\layout\\activity_get_started.xml"
+    },
+    {
+        "merged": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-mergeDebugResources-55:\\layout\\activity_updating_user_info.xml",
+        "source": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-main-58:\\layout\\activity_updating_user_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-mergeDebugResources-55:\\layout\\fragment_account.xml",
+        "source": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-main-58:\\layout\\fragment_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-mergeDebugResources-55:\\layout\\activity_profiler.xml",
+        "source": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-main-58:\\layout\\activity_profiler.xml"
+    },
+    {
+        "merged": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-mergeDebugResources-55:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-main-58:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-mergeDebugResources-55:\\layout\\fragment_upload.xml",
+        "source": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-main-58:\\layout\\fragment_upload.xml"
+    },
+    {
+        "merged": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-mergeDebugResources-55:\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-main-58:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-mergeDebugResources-55:\\layout\\fragment_home_display.xml",
+        "source": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-main-58:\\layout\\fragment_home_display.xml"
+    },
+    {
+        "merged": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-mergeDebugResources-55:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-main-58:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "com.mwangi.real.app-mergeDebugResources-55:/layout/fragment_upload_display.xml",
+        "source": "com.mwangi.real.app-main-58:/layout/fragment_upload_display.xml"
+    },
+    {
+        "merged": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-mergeDebugResources-55:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-main-58:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-mergeDebugResources-55:\\layout\\activity_view.xml",
+        "source": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-main-58:\\layout\\activity_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-mergeDebugResources-55:\\layout\\dialog_password_confirmation.xml",
+        "source": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-main-58:\\layout\\dialog_password_confirmation.xml"
+    }
+]
